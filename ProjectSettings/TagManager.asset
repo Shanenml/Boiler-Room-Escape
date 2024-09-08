@@ -8,11 +8,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - XR Origin
   - Water
   - UI
-  - 
-  - 
+  - Grab Interactable
+  - Activate Interactable
   - 
   - 
   - 
